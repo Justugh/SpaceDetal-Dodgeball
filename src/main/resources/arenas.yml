@@ -1,0 +1,7 @@
+#######################
+# Arena Configuration #
+#######################
+Arenas:
+  Default:
+    Name: "Default"
+    Author: "SpaceDelta"

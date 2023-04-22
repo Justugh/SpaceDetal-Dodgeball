@@ -1,0 +1,12 @@
+#########################
+# General Configuration #
+#########################
+
+# These commands are ran when victory conditions are met.
+Victory-Commands:
+  - "say %team% Team won!"
+
+# These commands are ran per player from the winning team
+# when victory conditions are met.
+Victory-Player-Commands:
+  - "say %player% on %team% team has won!"

@@ -1,0 +1,8 @@
+name: Dodgeball
+version: '${project.version}'
+main: net.justugh.dodgeball.Dodgeball
+api-version: 1.19
+depend: [ PlaceholderAPI ]
+authors: [ Justugh ]
+commands:
+  join:
